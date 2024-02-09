@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1483 chars
+1434 chars
+1328 chars
+1247 chars
+1165 chars
+1103 chars
+1090 chars
+1017 chars
+998 chars
+967 chars
+
+Top 10 Shortest Sentences by Words:
+Ah me!
+O Saul!
+O Muses!
+O Satan!
+I crave.
+CARY, M.A.
+O Hugolin!
+O avarice!
+Answer me.
+Section 1.
+
+Top 10 Longest Words:
+disproportioning
+unaccomplishable
+unenforceability
+superintendence
+interchangeable
+superillustrans
+notwithstanding
+representations
+merchantability
+contemptuously
+
+Top 10 Most Common Letters:
+e: 60182 occurrences
+t: 46509 occurrences
+o: 36076 occurrences
+h: 35825 occurrences
+a: 34604 occurrences
+s: 32738 occurrences
+i: 31539 occurrences
+n: 31141 occurrences
+r: 30139 occurrences
+d: 20854 occurrences
+
+Top 10 Words by Frequency:
+the: 5739
+d: 3655
+and: 3271
+of: 2576
+to: 2383
+that: 2154
+i: 1852
+in: 1763
+with: 1203
+as: 1118

@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1067 chars
+968 chars
+730 chars
+685 chars
+672 chars
+668 chars
+660 chars
+658 chars
+634 chars
+627 chars
+
+Top 10 Shortest Sentences by Words:
+I says.
+Now, Mr.
+Here Mr.
+Pipe up!
+Not you!
+Ah, well!
+Now, Mrs.
+Hold Mrs.
+Ten feet.
+Section 1.
+
+Top 10 Longest Words:
+incomprehensible
+unenforceability
+bloodthirstiest
+miscalculations
+representations
+merchantability
+unintelligible
+recommendation
+superintending
+simultaneously
+
+Top 10 Most Common Letters:
+e: 35157 occurrences
+t: 26381 occurrences
+a: 24677 occurrences
+o: 22997 occurrences
+n: 20164 occurrences
+i: 18847 occurrences
+h: 18573 occurrences
+s: 17632 occurrences
+r: 16392 occurrences
+d: 14178 occurrences
+
+Top 10 Words by Frequency:
+the: 4600
+and: 2955
+i: 1968
+a: 1814
+of: 1807
+to: 1607
+was: 1138
+you: 1048
+in: 1034
+he: 938

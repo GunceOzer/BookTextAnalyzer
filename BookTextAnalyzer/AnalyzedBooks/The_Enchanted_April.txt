@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+799 chars
+751 chars
+737 chars
+733 chars
+720 chars
+703 chars
+699 chars
+691 chars
+685 chars
+667 chars
+
+Top 10 Shortest Sentences by Words:
+A man?
+If Mr.
+In Mr.
+But Mr.
+And Mr.
+To Mrs.
+But Mrs.
+I’m Mrs.
+And Mrs.
+Hire it.
+
+Top 10 Longest Words:
+characteristically
+reprehensibleness
+demonstrativeness
+indistinguishable
+unresponsiveness
+enthusiastically
+incomprehensibly
+incomprehensible
+misappropriation
+affectionateness
+
+Top 10 Most Common Letters:
+e: 45438 occurrences
+t: 31685 occurrences
+a: 27466 occurrences
+o: 26544 occurrences
+n: 24421 occurrences
+s: 24352 occurrences
+h: 24228 occurrences
+i: 23403 occurrences
+r: 21311 occurrences
+d: 16833 occurrences
+
+Top 10 Words by Frequency:
+the: 3385
+and: 2760
+to: 2417
+she: 2285
+of: 1881
+her: 1754
+was: 1686
+a: 1325
+in: 1284
+it: 1276

@@ -1,0 +1,60 @@
+Top 10 Longest Sentences by Characters:
+2329 chars
+1679 chars
+1645 chars
+1620 chars
+1411 chars
+1404 chars
+1400 chars
+1297 chars
+1255 chars
+1254 chars
+
+Top 10 Shortest Sentences by Words:
+Tu whu!
+Oh, stay!
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Hearken to me!
+Besides, who knows?
+Blow, breezes, blow!
+See
+paragraph 1.C below.
+
+Top 10 Longest Words:
+unenforceability
+rumpelstiltskin
+rumplestiltskin
+representations
+merchantability
+contemptuously
+transformation
+redistribution
+redistributing
+nonproprietary
+
+Top 10 Most Common Letters:
+e: 52961 occurrences
+t: 39544 occurrences
+a: 34289 occurrences
+h: 32651 occurrences
+o: 31100 occurrences
+n: 27948 occurrences
+i: 24810 occurrences
+s: 23015 occurrences
+d: 21627 occurrences
+r: 21544 occurrences
+
+Top 10 Words by Frequency:
+the: 7232
+and: 5547
+to: 2751
+he: 2096
+a: 1978
+of: 1493
+was: 1386
+it: 1325
+you: 1267
+she: 1232

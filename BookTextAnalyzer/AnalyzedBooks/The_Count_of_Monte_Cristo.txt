@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+3992 chars
+3397 chars
+2868 chars
+2355 chars
+2320 chars
+2310 chars
+2213 chars
+2203 chars
+2185 chars
+2107 chars
+
+Top 10 Shortest Sentences by Words:
+Eh? no!
+Now, M.
+When M.
+But how?
+Come, M.
+I forget.
+Six days!
+Franz, M.
+His wife!
+He awoke.
+
+Top 10 Longest Words:
+disinterestedness
+incomprehensible
+enthusiastically
+indiscriminately
+misunderstanding
+unenforceability
+unprepossessing
+unceremoniously
+instantaneously
+personification
+
+Top 10 Most Common Letters:
+e: 259048 occurrences
+t: 180456 occurrences
+a: 165521 occurrences
+o: 157058 occurrences
+i: 142271 occurrences
+n: 137528 occurrences
+s: 126571 occurrences
+h: 126370 occurrences
+r: 121329 occurrences
+d: 94077 occurrences
+
+Top 10 Words by Frequency:
+the: 28637
+of: 12920
+to: 12899
+and: 12568
+a: 9468
+i: 8388
+you: 8288
+he: 6946
+in: 6622
+his: 5908

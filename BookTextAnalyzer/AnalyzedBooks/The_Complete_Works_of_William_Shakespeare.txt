@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+3905 chars
+3252 chars
+2860 chars
+2649 chars
+2085 chars
+1915 chars
+1783 chars
+1749 chars
+1729 chars
+1631 chars
+
+Top 10 Shortest Sentences by Words:
+I am.
+I do.
+Do I?
+O me!
+I go.
+As I?
+Do it.
+Not I.
+Nor I.
+By me?
+
+Top 10 Longest Words:
+anthropophaginian
+undistinguishable
+indistinguishable
+incomprehensible
+northamptonshire
+unenforceability
+prognostication
+unreconciliable
+distemperatures
+notwithstanding
+
+Top 10 Most Common Letters:
+e: 487748 occurrences
+t: 356288 occurrences
+o: 334271 occurrences
+a: 312188 occurrences
+i: 272142 occurrences
+s: 269066 occurrences
+n: 262450 occurrences
+h: 257182 occurrences
+r: 253821 occurrences
+l: 181676 occurrences
+
+Top 10 Words by Frequency:
+the: 30526
+and: 28566
+i: 24188
+to: 20844
+of: 18882
+a: 16494
+you: 14728
+my: 13201
+in: 12585
+that: 12282

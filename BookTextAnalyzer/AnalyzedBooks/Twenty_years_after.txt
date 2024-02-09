@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2928 chars
+2634 chars
+2257 chars
+1919 chars
+1912 chars
+1779 chars
+1726 chars
+1707 chars
+1704 chars
+1686 chars
+
+Top 10 Shortest Sentences by Words:
+Oh no!
+I see!
+Oh, no!
+But, no!
+By Jove!
+The Monk.
+The Riot.
+They are.
+Egad! no.
+But wait.
+
+Top 10 Longest Words:
+disinterestedness
+plenipotentiaries
+indiscriminately
+insurrectionists
+incorruptibility
+inextinguishable
+incomprehensible
+parliamentarians
+indemnifications
+unenforceability
+
+Top 10 Most Common Letters:
+e: 132304 occurrences
+t: 94847 occurrences
+a: 89787 occurrences
+o: 83124 occurrences
+n: 73183 occurrences
+i: 72555 occurrences
+h: 67764 occurrences
+s: 65706 occurrences
+r: 63870 occurrences
+d: 49872 occurrences
+
+Top 10 Words by Frequency:
+the: 14535
+to: 7473
+and: 6428
+of: 6220
+a: 4824
+i: 4137
+you: 4116
+he: 3688
+in: 3602
+that: 3347

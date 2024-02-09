@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1079 chars
+946 chars
+779 chars
+775 chars
+690 chars
+685 chars
+676 chars
+661 chars
+646 chars
+620 chars
+
+Top 10 Shortest Sentences by Words:
+To sea.
+Ha, ha!
+No Bob.
+Poor boy!
+Poor Dick!
+What then?
+Nice girl!
+Section 1.
+Section 2.
+Section 3.
+
+Top 10 Longest Words:
+unenforceability
+notwithstanding
+representations
+merchantability
+establishments
+unquestionably
+transformation
+redistribution
+redistributing
+nonproprietary
+
+Top 10 Most Common Letters:
+e: 16773 occurrences
+t: 12449 occurrences
+o: 11101 occurrences
+a: 10362 occurrences
+i: 9446 occurrences
+n: 9014 occurrences
+h: 8954 occurrences
+s: 8735 occurrences
+r: 8260 occurrences
+d: 6209 occurrences
+
+Top 10 Words by Frequency:
+the: 1761
+and: 1127
+of: 786
+a: 770
+to: 761
+in: 584
+it: 531
+he: 488
+was: 429
+his: 420

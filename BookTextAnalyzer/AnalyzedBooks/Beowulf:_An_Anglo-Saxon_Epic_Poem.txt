@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+4318 chars
+2295 chars
+2272 chars
+2032 chars
+1809 chars
+1607 chars
+1533 chars
+1525 chars
+1447 chars
+1443 chars
+
+Top 10 Shortest Sentences by Words:
+XII. 87).
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+K.= Kemble.
+Havre, 1877.
+Lucca, 1883.
+Halle, 1839.
+Paris, 1859.
+
+Top 10 Longest Words:
+unenforceability
+characteristics
+congratulations
+interpretations
+notwithstanding
+representations
+merchantability
+scientifically
+aforementioned
+unsatisfactory
+
+Top 10 Most Common Letters:
+e: 26661 occurrences
+t: 16900 occurrences
+o: 14593 occurrences
+a: 13952 occurrences
+r: 13279 occurrences
+h: 13200 occurrences
+n: 12970 occurrences
+s: 12175 occurrences
+i: 11827 occurrences
+d: 9003 occurrences
+
+Top 10 Words by Frequency:
+the: 3309
+of: 1640
+to: 1087
+and: 875
+in: 717
+a: 584
+he: 558
+his: 555
+with: 443
+that: 347

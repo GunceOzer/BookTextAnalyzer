@@ -1,0 +1,61 @@
+Top 10 Longest Sentences by Characters:
+1262 chars
+798 chars
+685 chars
+667 chars
+620 chars
+605 chars
+583 chars
+544 chars
+511 chars
+496 chars
+
+Top 10 Shortest Sentences by Words:
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+I hesitated.
+It’s madness.
+They moved
+hastily.
+But no
+interruptions!
+So be it!
+Is that plain?
+
+Top 10 Longest Words:
+inextinguishable
+incomprehensible
+unenforceability
+representations
+proportionately
+differentiation
+preternaturally
+merchantability
+intermittently
+mathematicians
+
+Top 10 Most Common Letters:
+e: 19769 occurrences
+t: 15086 occurrences
+a: 12744 occurrences
+i: 11302 occurrences
+o: 11148 occurrences
+n: 11005 occurrences
+s: 9302 occurrences
+r: 8889 occurrences
+h: 8836 occurrences
+d: 6862 occurrences
+
+Top 10 Words by Frequency:
+the: 2475
+and: 1311
+of: 1285
+i: 1267
+a: 877
+to: 766
+in: 605
+was: 552
+that: 457
+it: 451

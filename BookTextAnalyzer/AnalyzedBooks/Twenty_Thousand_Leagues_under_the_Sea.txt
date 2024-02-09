@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1960 chars
+1650 chars
+1078 chars
+1078 chars
+1070 chars
+1020 chars
+1018 chars
+937 chars
+903 chars
+883 chars
+
+Top 10 Shortest Sentences by Words:
+But no.
+I bowed.
+What for?
+I looked.
+No noise.
+I obeyed.
+No answer.
+Section 1.
+Section 2.
+Section 3.
+
+Top 10 Longest Words:
+incomprehensible
+indiscriminately
+perpendicularity
+circumnavigation
+enthusiastically
+imperturbability
+unenforceability
+notwithstanding
+phosphorescence
+philosophically
+
+Top 10 Most Common Letters:
+e: 60819 occurrences
+t: 46146 occurrences
+a: 38952 occurrences
+o: 35749 occurrences
+i: 34293 occurrences
+n: 33766 occurrences
+s: 31713 occurrences
+h: 28086 occurrences
+r: 27507 occurrences
+d: 20151 occurrences
+
+Top 10 Words by Frequency:
+the: 8770
+of: 4232
+and: 2680
+to: 2632
+i: 2199
+a: 2158
+in: 1639
+was: 1342
+it: 1311
+that: 1050

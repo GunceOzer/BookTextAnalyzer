@@ -1,0 +1,60 @@
+Top 10 Longest Sentences by Characters:
+1225 chars
+1202 chars
+1141 chars
+1077 chars
+1021 chars
+1000 chars
+921 chars
+866 chars
+837 chars
+806 chars
+
+Top 10 Shortest Sentences by Words:
+I will.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+My
+perplexities multiply.
+What a fuss!
+She sat down.
+I’m better now.
+I am distracted.
+
+Top 10 Longest Words:
+anagrammatically
+unenforceability
+notwithstanding
+distinguishable
+accomplishments
+congratulations
+unconsciousness
+conscientiously
+representations
+merchantability
+
+Top 10 Most Common Letters:
+e: 17230 occurrences
+t: 11795 occurrences
+a: 11315 occurrences
+o: 10047 occurrences
+i: 9656 occurrences
+n: 9299 occurrences
+r: 8509 occurrences
+s: 8282 occurrences
+h: 7801 occurrences
+d: 6287 occurrences
+
+Top 10 Words by Frequency:
+the: 1609
+and: 1123
+i: 881
+of: 814
+a: 761
+to: 720
+in: 582
+was: 429
+my: 414
+you: 397

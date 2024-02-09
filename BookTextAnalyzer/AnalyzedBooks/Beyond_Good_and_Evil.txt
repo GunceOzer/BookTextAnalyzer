@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+3102 chars
+2706 chars
+2225 chars
+2003 chars
+1864 chars
+1787 chars
+1682 chars
+1665 chars
+1578 chars
+1317 chars
+
+Top 10 Shortest Sentences by Words:
+Ye go!
+Why NOT?
+And why?
+O idiocy!
+CHAPTER I.
+CHAPTER V.
+Oh Europe!
+Section 1.
+Section 2.
+Section 3.
+
+Top 10 Longest Words:
+incomprehensibleness
+schoolmasterliness
+irrestrainableness
+unexceptionalness
+unconditionalness
+contradistinction
+conscientiousness
+unphilosophically
+comprehensiveness
+proportionateness
+
+Top 10 Most Common Letters:
+e: 39429 occurrences
+t: 29432 occurrences
+o: 24797 occurrences
+a: 24619 occurrences
+i: 24513 occurrences
+n: 23672 occurrences
+s: 22744 occurrences
+r: 18770 occurrences
+h: 17695 occurrences
+l: 13543 occurrences
+
+Top 10 Words by Frequency:
+the: 4030
+of: 2883
+and: 2768
+to: 1983
+in: 1401
+a: 1340
+is: 1207
+it: 877
+that: 834
+as: 777

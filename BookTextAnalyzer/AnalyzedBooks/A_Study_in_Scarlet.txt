@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+927 chars
+921 chars
+772 chars
+767 chars
+742 chars
+709 chars
+685 chars
+673 chars
+672 chars
+632 chars
+
+Top 10 Shortest Sentences by Words:
+I do.
+PART I.
+And Mr.
+PART II.
+Enoch J.
+Apply Dr.
+CHAPTER I.
+CHAPTER V.
+No answer?
+Thank you!
+
+Top 10 Longest Words:
+incomprehensible
+enthusiastically
+susceptibilities
+unextinguishable
+unenforceability
+commiseratingly
+extraordinarily
+accomplishments
+characteristics
+representations
+
+Top 10 Most Common Letters:
+e: 25463 occurrences
+t: 18022 occurrences
+a: 16120 occurrences
+o: 15520 occurrences
+i: 13884 occurrences
+n: 13794 occurrences
+h: 13352 occurrences
+r: 12143 occurrences
+s: 12092 occurrences
+d: 9137 occurrences
+
+Top 10 Words by Frequency:
+the: 2724
+and: 1422
+of: 1335
+to: 1175
+a: 1073
+i: 943
+he: 808
+in: 791
+that: 688
+was: 653

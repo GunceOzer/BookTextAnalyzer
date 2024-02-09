@@ -1,0 +1,61 @@
+Top 10 Longest Sentences by Characters:
+1335 chars
+1161 chars
+946 chars
+896 chars
+829 chars
+801 chars
+794 chars
+793 chars
+785 chars
+778 chars
+
+Top 10 Shortest Sentences by Words:
+But, alas!
+Come back!
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+See
+paragraph 1.C below.
+And oh, Aunt Em!
+I don’t know anything.
+The Cyclone
+ Chapter II.
+
+Top 10 Longest Words:
+unenforceability
+discouragements
+representations
+merchantability
+confidentially
+disappointment
+redistribution
+redistributing
+nonproprietary
+electronically
+
+Top 10 Most Common Letters:
+e: 22261 occurrences
+t: 16378 occurrences
+o: 14240 occurrences
+a: 13887 occurrences
+h: 11977 occurrences
+n: 10752 occurrences
+r: 10534 occurrences
+i: 10350 occurrences
+s: 9689 occurrences
+d: 8888 occurrences
+
+Top 10 Words by Frequency:
+the: 3196
+and: 1737
+to: 1200
+of: 973
+a: 865
+i: 649
+you: 570
+in: 543
+was: 506
+he: 460

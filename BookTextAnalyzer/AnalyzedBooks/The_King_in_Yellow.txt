@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+962 chars
+954 chars
+848 chars
+822 chars
+803 chars
+802 chars
+791 chars
+785 chars
+781 chars
+763 chars
+
+Top 10 Shortest Sentences by Words:
+Oh, Mr.
+Help me!
+Then Mr.
+When Mr.
+Too late?
+I'm kind.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+
+Top 10 Longest Words:
+conscientiousness
+enthusiastically
+unenforceability
+insubordination
+representations
+merchantability
+administration
+fortifications
+naturalization
+centralization
+
+Top 10 Most Common Letters:
+e: 41028 occurrences
+t: 28940 occurrences
+a: 25529 occurrences
+o: 23519 occurrences
+i: 22524 occurrences
+n: 22215 occurrences
+h: 20496 occurrences
+s: 19852 occurrences
+r: 18978 occurrences
+d: 15872 occurrences
+
+Top 10 Words by Frequency:
+the: 4896
+and: 2919
+i: 1965
+a: 1771
+of: 1728
+to: 1654
+in: 1208
+he: 1132
+it: 855
+was: 814

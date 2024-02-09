@@ -1,0 +1,60 @@
+Top 10 Longest Sentences by Characters:
+16043 chars
+4846 chars
+4734 chars
+4622 chars
+4236 chars
+4163 chars
+4037 chars
+4035 chars
+3736 chars
+3696 chars
+
+Top 10 Shortest Sentences by Words:
+Good God!
+Come back!
+The devil!
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+CHAPTER XX.
+Surely not.
+Not at
+all.
+
+Top 10 Longest Words:
+unexampledcourage
+circumstantiality
+disinterestedness
+straightforwardly
+shortsightedness
+incomprehensible
+responsibilities
+immaculatissimus
+unenforceability
+mistranslations
+
+Top 10 Most Common Letters:
+e: 219923 occurrences
+t: 169516 occurrences
+a: 149075 occurrences
+o: 147002 occurrences
+h: 125384 occurrences
+n: 124122 occurrences
+i: 122169 occurrences
+s: 115051 occurrences
+r: 100188 occurrences
+d: 81612 occurrences
+
+Top 10 Words by Frequency:
+the: 22477
+and: 17719
+to: 14008
+of: 13491
+that: 7994
+in: 7338
+a: 7197
+i: 6655
+he: 6156
+it: 5680

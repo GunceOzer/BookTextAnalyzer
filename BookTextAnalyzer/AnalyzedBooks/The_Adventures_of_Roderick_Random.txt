@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2145 chars
+1823 chars
+1750 chars
+1667 chars
+1662 chars
+1586 chars
+1584 chars
+1500 chars
+1481 chars
+1433 chars
+
+Top 10 Shortest Sentences by Words:
+I will!
+O Lord!
+A vice!
+But Mr.
+For why?
+Odds bob!
+CHAPTER V.
+CHAPTER X.
+CHAPTER L.
+What then?
+
+Top 10 Longest Words:
+transubstantiation
+disinterestedness
+unreasonableness
+misunderstanding
+unenforceability
+notwithstanding
+contemplayshins
+acknowledgments
+disappointments
+misapprehension
+
+Top 10 Most Common Letters:
+e: 107082 occurrences
+t: 75251 occurrences
+a: 68292 occurrences
+o: 66805 occurrences
+i: 62787 occurrences
+n: 61109 occurrences
+h: 53096 occurrences
+s: 51796 occurrences
+r: 50669 occurrences
+d: 40613 occurrences
+
+Top 10 Words by Frequency:
+the: 9479
+of: 6656
+to: 6294
+and: 6141
+i: 5110
+a: 4621
+my: 3723
+in: 3584
+he: 2881
+with: 2740

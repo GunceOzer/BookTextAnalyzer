@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1673 chars
+1065 chars
+981 chars
+918 chars
+908 chars
+864 chars
+820 chars
+803 chars
+769 chars
+756 chars
+
+Top 10 Shortest Sentences by Words:
+I do!
+Go on.
+O God!
+Oh, no!
+Let Mr.
+By God!
+Get up!
+I know.
+Oh, Mr.
+Now, Mr.
+
+Top 10 Longest Words:
+intercommunication
+mispronunciations
+incomprehensible
+unsatisfactorily
+unenforceability
+notwithstanding
+unceremoniously
+inconsideration
+condescendingly
+instantaneously
+
+Top 10 Most Common Letters:
+e: 65628 occurrences
+t: 44449 occurrences
+a: 39729 occurrences
+o: 38029 occurrences
+n: 36765 occurrences
+i: 36744 occurrences
+h: 33221 occurrences
+s: 31202 occurrences
+r: 30408 occurrences
+d: 24536 occurrences
+
+Top 10 Words by Frequency:
+and: 4814
+the: 4761
+i: 4117
+to: 3620
+a: 2386
+of: 2346
+he: 2122
+you: 1942
+in: 1544
+her: 1544

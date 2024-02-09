@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2217 chars
+1560 chars
+1366 chars
+1194 chars
+1115 chars
+1083 chars
+1015 chars
+975 chars
+936 chars
+934 chars
+
+Top 10 Shortest Sentences by Words:
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Ah, Martin!
+Oh, Pangloss!
+Three diamonds!
+How is she?
+Is it possible?
+Peter's at Rome.
+
+Top 10 Longest Words:
+waldberghofftrarbk
+incompatibilities
+unenforceability
+parenthetically
+notwithstanding
+interchangeably
+characteristics
+metaphysicotheo
+representations
+merchantability
+
+Top 10 Most Common Letters:
+e: 21621 occurrences
+t: 15293 occurrences
+a: 14525 occurrences
+o: 13014 occurrences
+i: 12089 occurrences
+n: 11767 occurrences
+s: 10917 occurrences
+h: 10401 occurrences
+r: 10214 occurrences
+d: 8234 occurrences
+
+Top 10 Words by Frequency:
+the: 2216
+of: 1237
+and: 1163
+to: 1156
+a: 873
+in: 641
+i: 554
+he: 462
+that: 455
+was: 440

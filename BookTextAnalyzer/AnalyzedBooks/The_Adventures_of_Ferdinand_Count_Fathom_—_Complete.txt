@@ -1,0 +1,60 @@
+Top 10 Longest Sentences by Characters:
+1967 chars
+1857 chars
+1828 chars
+1819 chars
+1289 chars
+1277 chars
+1270 chars
+1264 chars
+1261 chars
+1256 chars
+
+Top 10 Shortest Sentences by Words:
+Ah, no!
+O Monimia!
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+O Serafina!
+It
+cannot be.
+Maynadier, Ph.D.
+CHAPTER TWENTY-TWO.
+
+Top 10 Longest Words:
+misrepresentations
+misrepresentation
+misinterpretation
+misunderstandings
+misconstructions
+straightforwards
+unreasonableness
+undistinguishing
+misunderstanding
+circumstantially
+
+Top 10 Most Common Letters:
+e: 99550 occurrences
+t: 69767 occurrences
+o: 60326 occurrences
+a: 59323 occurrences
+i: 57386 occurrences
+n: 55846 occurrences
+h: 52224 occurrences
+s: 48939 occurrences
+r: 47399 occurrences
+d: 34771 occurrences
+
+Top 10 Words by Frequency:
+the: 10142
+of: 7353
+to: 5362
+and: 5228
+his: 4014
+in: 3438
+a: 3384
+he: 3310
+with: 2277
+that: 2214

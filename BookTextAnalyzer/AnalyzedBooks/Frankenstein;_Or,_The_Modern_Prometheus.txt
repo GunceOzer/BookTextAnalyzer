@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1293 chars
+980 chars
+952 chars
+948 chars
+775 chars
+699 chars
+685 chars
+684 chars
+680 chars
+665 chars
+
+Top 10 Shortest Sentences by Words:
+In M.
+He came.
+Good God!
+CHAPTER I.
+CHAPTER V.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+CHAPTER II.
+
+Top 10 Longest Words:
+incomprehensible
+impracticability
+prognostications
+perpendicularity
+inextinguishable
+unenforceability
+considerateness
+inquisitiveness
+disappointments
+accomplishments
+
+Top 10 Most Common Letters:
+e: 44524 occurrences
+t: 29482 occurrences
+a: 25887 occurrences
+o: 24488 occurrences
+i: 23919 occurrences
+n: 23636 occurrences
+s: 20355 occurrences
+r: 20069 occurrences
+h: 19172 occurrences
+d: 16308 occurrences
+
+Top 10 Words by Frequency:
+the: 4229
+and: 2963
+i: 2792
+of: 2635
+to: 2052
+my: 1684
+a: 1368
+in: 1133
+that: 1041
+was: 987

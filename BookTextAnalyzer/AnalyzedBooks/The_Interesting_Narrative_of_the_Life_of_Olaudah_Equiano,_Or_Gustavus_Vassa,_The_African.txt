@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1682 chars
+1607 chars
+1558 chars
+1211 chars
+1073 chars
+1048 chars
+952 chars
+897 chars
+896 chars
+888 chars
+
+Top 10 Shortest Sentences by Words:
+As Mr.
+At Mr.
+To Mr.
+Penn, Esq.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Brown, Esq.
+Johnson, St.
+
+Top 10 Longest Words:
+misrepresentations
+impracticability
+unenforceability
+notwithstanding
+characteristics
+disappointments
+enfranchisement
+acknowledgments
+representations
+merchantability
+
+Top 10 Most Common Letters:
+e: 47012 occurrences
+t: 33145 occurrences
+a: 29296 occurrences
+o: 27976 occurrences
+n: 25589 occurrences
+i: 24833 occurrences
+s: 22095 occurrences
+h: 21677 occurrences
+r: 21672 occurrences
+d: 16626 occurrences
+
+Top 10 Words by Frequency:
+the: 4522
+and: 3436
+to: 2806
+of: 2725
+i: 2570
+in: 1628
+a: 1532
+was: 1295
+my: 1008
+me: 908

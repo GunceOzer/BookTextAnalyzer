@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1408 chars
+1390 chars
+1386 chars
+1254 chars
+1178 chars
+1112 chars
+1026 chars
+990 chars
+973 chars
+969 chars
+
+Top 10 Shortest Sentences by Words:
+O no.
+In St.
+My land!
+Old Mrs.
+I _did_.
+THE END.
+All safe.
+Go ’long.
+Odd, too.
+CHAPTER I.
+
+Top 10 Longest Words:
+goodnessgracioussakes
+preforeordestination
+uncomfortableness
+unenforceability
+representatives
+representations
+merchantability
+discrimination
+superintendent
+multiplication
+
+Top 10 Most Common Letters:
+e: 49674 occurrences
+t: 42849 occurrences
+o: 37079 occurrences
+a: 36972 occurrences
+n: 33158 occurrences
+i: 28648 occurrences
+h: 26695 occurrences
+s: 25516 occurrences
+d: 23922 occurrences
+r: 20598 occurrences
+
+Top 10 Words by Frequency:
+and: 6439
+the: 5098
+i: 3607
+a: 3261
+to: 3023
+it: 2569
+t: 2086
+was: 2045
+he: 1845
+of: 1785

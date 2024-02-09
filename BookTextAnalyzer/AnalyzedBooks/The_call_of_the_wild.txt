@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+902 chars
+685 chars
+659 chars
+620 chars
+620 chars
+556 chars
+544 chars
+528 chars
+520 chars
+518 chars
+
+Top 10 Shortest Sentences by Words:
+For sure.
+He dodged.
+Chapter V.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Chapter II.
+Chapter IV.
+Chapter VI.
+
+Top 10 Longest Words:
+misunderstandings
+enthusiastically
+incomprehensible
+unenforceability
+insubordination
+sympathetically
+comprehensively
+representations
+merchantability
+transportation
+
+Top 10 Most Common Letters:
+e: 19089 occurrences
+t: 14117 occurrences
+a: 12121 occurrences
+n: 10933 occurrences
+o: 10782 occurrences
+h: 10349 occurrences
+i: 9716 occurrences
+r: 8986 occurrences
+s: 8981 occurrences
+d: 7892 occurrences
+
+Top 10 Words by Frequency:
+the: 2479
+and: 1605
+of: 998
+he: 820
+to: 758
+a: 725
+was: 699
+in: 600
+his: 559
+it: 396

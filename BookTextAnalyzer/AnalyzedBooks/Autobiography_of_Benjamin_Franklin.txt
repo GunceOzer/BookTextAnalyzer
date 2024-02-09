@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2229 chars
+1985 chars
+1837 chars
+1636 chars
+1614 chars
+1608 chars
+1590 chars
+1588 chars
+1546 chars
+1487 chars
+
+Top 10 Shortest Sentences by Words:
+But Mr.
+Henry E.
+When Mr.
+This Mr.
+A Jingle.
+Asaph, Dr.
+Swift, Mr.
+Section 1.
+Section 2.
+Section 3.
+
+Top 10 Longest Words:
+conversationalists
+disinterestedness
+northamptonshire
+unenforceability
+autobiographies
+notwithstanding
+recommendations
+correspondences
+administrations
+beforemention'd
+
+Top 10 Most Common Letters:
+e: 43190 occurrences
+t: 32235 occurrences
+o: 27334 occurrences
+a: 27080 occurrences
+n: 26147 occurrences
+i: 25861 occurrences
+r: 21514 occurrences
+s: 21513 occurrences
+h: 19554 occurrences
+d: 14750 occurrences
+
+Top 10 Words by Frequency:
+the: 4251
+of: 2923
+and: 2731
+to: 2491
+a: 1647
+in: 1646
+i: 1575
+was: 1043
+that: 959
+it: 821

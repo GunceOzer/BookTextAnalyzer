@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1396 chars
+1219 chars
+1077 chars
+1004 chars
+964 chars
+955 chars
+927 chars
+908 chars
+887 chars
+867 chars
+
+Top 10 Shortest Sentences by Words:
+I ...
+Go on!
+How so?
+H'm ...
+Oh! oh!
+My God!
+A wife!
+Get up!
+But no!
+I can't!
+
+Top 10 Longest Words:
+straightforwardness
+characteristically
+misunderstandings
+incomprehensible
+disproportionate
+enthusiastically
+apprehensiveness
+unenforceability
+extraordinarily
+compassionately
+
+Top 10 Most Common Letters:
+e: 61124 occurrences
+t: 47298 occurrences
+a: 42984 occurrences
+o: 40636 occurrences
+i: 36782 occurrences
+n: 35977 occurrences
+s: 31379 occurrences
+h: 30489 occurrences
+r: 27239 occurrences
+d: 22049 occurrences
+
+Top 10 Words by Frequency:
+the: 4236
+and: 3900
+i: 3820
+to: 3448
+a: 2554
+of: 2525
+that: 2137
+you: 2031
+in: 2022
+was: 1835

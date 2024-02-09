@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+3378 chars
+3165 chars
+3110 chars
+3060 chars
+2832 chars
+2534 chars
+2433 chars
+2383 chars
+2331 chars
+2303 chars
+
+Top 10 Shortest Sentences by Words:
+July 18.
+St Andrew!
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Mary Jones!
+Dear Letty!
+St Lazarus!
+BRAMBLE EDR.
+
+Top 10 Longest Words:
+occacanastaogarora
+leucophlegmatica
+misunderstanding
+incomprehensible
+circumstantially
+unenforceability
+notwithstanding
+instantaneously
+leucophlegmatic
+representations
+
+Top 10 Most Common Letters:
+e: 83933 occurrences
+t: 61325 occurrences
+a: 54703 occurrences
+o: 52302 occurrences
+i: 49817 occurrences
+n: 48074 occurrences
+s: 42660 occurrences
+h: 42561 occurrences
+r: 41341 occurrences
+d: 29075 occurrences
+
+Top 10 Words by Frequency:
+the: 8677
+of: 5685
+and: 5075
+to: 4445
+a: 3743
+in: 3226
+i: 2729
+he: 2153
+his: 2023
+that: 1896

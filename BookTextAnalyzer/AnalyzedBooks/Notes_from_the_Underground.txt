@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1215 chars
+1057 chars
+1005 chars
+954 chars
+912 chars
+847 chars
+716 chars
+695 chars
+694 chars
+693 chars
+
+Top 10 Shortest Sentences by Words:
+H’m ...
+Then ...
+But, no!
+Damn it!
+Drive on!
+You laugh?
+No matter!
+No answer.
+I thought.
+Section 1.
+
+Top 10 Longest Words:
+straightforwardness
+disproportionate
+unenforceability
+representatives
+impossibilities
+classifications
+extraordinarily
+disadvantageous
+characteristics
+authoritatively
+
+Top 10 Most Common Letters:
+e: 23710 occurrences
+t: 18997 occurrences
+o: 16077 occurrences
+a: 16059 occurrences
+i: 14908 occurrences
+n: 14352 occurrences
+s: 12173 occurrences
+h: 10942 occurrences
+r: 10561 occurrences
+l: 8661 occurrences
+
+Top 10 Words by Frequency:
+i: 1741
+the: 1577
+and: 1533
+to: 1363
+of: 1109
+a: 964
+that: 945
+in: 838
+it: 814
+you: 716

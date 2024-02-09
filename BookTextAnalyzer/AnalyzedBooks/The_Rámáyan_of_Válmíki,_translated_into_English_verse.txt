@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+3428 chars
+3309 chars
+2438 chars
+2368 chars
+1902 chars
+1880 chars
+1869 chars
+1654 chars
+1592 chars
+1572 chars
+
+Top 10 Shortest Sentences by Words:
+By H.
+Ah me!
+As Mr.
+Act V.
+Book I.
+BOOK V.
+P. 524.
+See Dr.
+Canto I.
+Canto V.
+
+Top 10 Longest Words:
+l'accomplissement
+instrumentorumque
+praestantissimos
+personifications
+todtenbestattung
+sarvabhavodbhava
+unenforceability
+vajradanshtra's
+undistinguished
+personification
+
+Top 10 Most Common Letters:
+e: 218372 occurrences
+t: 146714 occurrences
+a: 143137 occurrences
+h: 126319 occurrences
+s: 123843 occurrences
+o: 119052 occurrences
+r: 116005 occurrences
+n: 113249 occurrences
+i: 112765 occurrences
+d: 85218 occurrences
+
+Top 10 Words by Frequency:
+the: 25999
+and: 17354
+of: 10496
+to: 8589
+with: 6494
+his: 6478
+in: 6332
+a: 4569
+he: 3920
+that: 2934

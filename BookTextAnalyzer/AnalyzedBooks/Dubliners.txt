@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1032 chars
+915 chars
+846 chars
+801 chars
+698 chars
+688 chars
+685 chars
+677 chars
+655 chars
+635 chars
+
+Top 10 Shortest Sentences by Words:
+Mr H.
+But no.
+By God!
+Blast it!
+She came.
+This page?
+Routh won.
+Hot stuff!
+Section 1.
+Section 2.
+
+Top 10 Longest Words:
+autobiographical
+unenforceability
+interrogatively
+accomplishments
+philosophically
+argumentatively
+disappointments
+thoughtlessness
+appropriateness
+compassionately
+
+Top 10 Most Common Letters:
+e: 37571 occurrences
+t: 26045 occurrences
+a: 24804 occurrences
+o: 22583 occurrences
+n: 20760 occurrences
+h: 20537 occurrences
+i: 19876 occurrences
+s: 18758 occurrences
+r: 17550 occurrences
+d: 14174 occurrences
+
+Top 10 Words by Frequency:
+the: 4249
+and: 2300
+of: 1989
+to: 1835
+he: 1714
+a: 1644
+was: 1162
+his: 1159
+in: 1115
+had: 811

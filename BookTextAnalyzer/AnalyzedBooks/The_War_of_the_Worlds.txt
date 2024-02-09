@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+685 chars
+620 chars
+604 chars
+601 chars
+556 chars
+544 chars
+520 chars
+516 chars
+516 chars
+511 chars
+
+Top 10 Shortest Sentences by Words:
+I go!
+I am.
+The St.
+IN LONDON.
+Great God!
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+UNDER FOOT.
+
+Top 10 Longest Words:
+indistinguishable
+photographically
+incomprehensible
+indiscriminately
+unenforceability
+disillusionment
+purposelessness
+notwithstanding
+incompatibility
+unintelligently
+
+Top 10 Most Common Letters:
+e: 35250 occurrences
+t: 27179 occurrences
+a: 23440 occurrences
+n: 20282 occurrences
+o: 20030 occurrences
+i: 19190 occurrences
+h: 16983 occurrences
+s: 16931 occurrences
+r: 16868 occurrences
+d: 13394 occurrences
+
+Top 10 Words by Frequency:
+the: 5013
+and: 2571
+of: 2434
+a: 1694
+i: 1307
+to: 1257
+in: 1066
+was: 855
+that: 808
+it: 704

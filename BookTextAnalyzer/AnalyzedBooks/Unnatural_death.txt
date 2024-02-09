@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+866 chars
+818 chars
+766 chars
+733 chars
+711 chars
+693 chars
+685 chars
+650 chars
+646 chars
+641 chars
+
+Top 10 Shortest Sentences by Words:
+But no!
+And Mr.
+But Mr.
+Eh, ha!
+I know!
+If Mrs.
+Dear me!
+So long.
+No clue.
+By Jove!
+
+Top 10 Longest Words:
+diethylsulphonmethylethylmetane
+disproportionately
+conscientiousness
+conversationally
+uncompromisingly
+misunderstanding
+unenforceability
+unsophisticated
+extraordinarily
+inquisitiveness
+
+Top 10 Most Common Letters:
+e: 44556 occurrences
+t: 34975 occurrences
+a: 29887 occurrences
+o: 29393 occurrences
+i: 26220 occurrences
+n: 25015 occurrences
+s: 24291 occurrences
+r: 22326 occurrences
+h: 21828 occurrences
+d: 16284 occurrences
+
+Top 10 Words by Frequency:
+the: 4251
+to: 2425
+and: 2416
+a: 2169
+of: 2083
+i: 1938
+you: 1353
+it: 1337
+that: 1331
+in: 1293

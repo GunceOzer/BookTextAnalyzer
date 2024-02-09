@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1950 chars
+1929 chars
+1674 chars
+1524 chars
+1521 chars
+1483 chars
+1461 chars
+1407 chars
+1403 chars
+1344 chars
+
+Top 10 Shortest Sentences by Words:
+AND R.
+LAW, C.
+OWEN, 1.
+WARE, S.
+Sect. 2.
+Sect. 3.
+Sect. 4.
+Sect. 5.
+Sect. 7.
+Sect. 8.
+
+Top 10 Longest Words:
+maladministration
+disproportionate
+unenforceability
+inconsistencies
+conscientiously
+inconveniencies
+notwithstanding
+distinguishable
+infranchisement
+archphilosopher
+
+Top 10 Most Common Letters:
+e: 33716 occurrences
+t: 26539 occurrences
+o: 21334 occurrences
+a: 19443 occurrences
+n: 18944 occurrences
+i: 18105 occurrences
+h: 16360 occurrences
+s: 16174 occurrences
+r: 15770 occurrences
+l: 8957 occurrences
+
+Top 10 Words by Frequency:
+the: 3633
+of: 2629
+to: 2197
+and: 2163
+in: 1055
+a: 1014
+that: 978
+it: 893
+is: 843
+be: 714

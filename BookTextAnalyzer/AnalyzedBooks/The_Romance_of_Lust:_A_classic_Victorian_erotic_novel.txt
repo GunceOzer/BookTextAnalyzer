@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1621 chars
+1573 chars
+1473 chars
+1243 chars
+1211 chars
+1095 chars
+1092 chars
+1030 chars
+1011 chars
+946 chars
+
+Top 10 Shortest Sentences by Words:
+Oh, no!
+D., Dr.
+But, oh!
+When Mr.
+Oh! sir.
+We went.
+Oh, dear!
+Then Mrs.
+When Mrs.
+Dear Mrs.
+
+Top 10 Longest Words:
+schoolmistresses
+indiscriminately
+unenforceability
+notwithstanding
+extraordinarily
+insubordination
+thoughtlessness
+dissatisfaction
+distinguishable
+congratulations
+
+Top 10 Most Common Letters:
+e: 102115 occurrences
+t: 72263 occurrences
+o: 62280 occurrences
+a: 61018 occurrences
+i: 58174 occurrences
+n: 55442 occurrences
+s: 51670 occurrences
+h: 48817 occurrences
+r: 47839 occurrences
+d: 38882 occurrences
+
+Top 10 Words by Frequency:
+the: 8134
+and: 7236
+to: 5866
+of: 4648
+i: 4637
+her: 4357
+my: 3461
+in: 3287
+a: 3038
+was: 2668

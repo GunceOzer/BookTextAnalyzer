@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2362 chars
+1963 chars
+1597 chars
+1427 chars
+1389 chars
+1317 chars
+1315 chars
+1294 chars
+1272 chars
+1243 chars
+
+Top 10 Shortest Sentences by Words:
+To it!
+So, Mr.
+Why so?
+Ho, ho!
+Oh, oh!
+So, so.
+But no.
+The Gam.
+The Nut.
+The Hat.
+
+Top 10 Longest Words:
+uninterpenetratingly
+characteristically
+uncomfortableness
+cannibalistically
+circumnavigations
+superstitiousness
+comprehensiveness
+preternaturalness
+indispensableness
+uncompromisedness
+
+Top 10 Most Common Letters:
+e: 119345 occurrences
+t: 89874 occurrences
+a: 79220 occurrences
+o: 70808 occurrences
+n: 66778 occurrences
+i: 66671 occurrences
+s: 65136 occurrences
+h: 63769 occurrences
+r: 53589 occurrences
+l: 43349 occurrences
+
+Top 10 Words by Frequency:
+the: 14715
+of: 6746
+and: 6513
+a: 4799
+to: 4709
+in: 4241
+that: 3081
+it: 2535
+his: 2530
+i: 2120

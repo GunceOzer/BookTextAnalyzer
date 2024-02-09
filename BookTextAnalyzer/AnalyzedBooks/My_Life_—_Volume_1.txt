@@ -1,0 +1,61 @@
+Top 10 Longest Sentences by Characters:
+863 chars
+764 chars
+757 chars
+753 chars
+699 chars
+685 chars
+651 chars
+644 chars
+643 chars
+642 chars
+
+Top 10 Shortest Sentences by Words:
+When M.
+Herr E.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+This
+was M.
+Taylor, Mme.
+A
+certain M.
+This succeeded!
+
+Top 10 Longest Words:
+misunderstandings
+logengesellschaft
+incomprehensively
+disinterestedness
+disadvantageously
+oesterreichischen
+conscientiousness
+unconventionality
+bethlehemitische
+incomprehensible
+
+Top 10 Most Common Letters:
+e: 128456 occurrences
+t: 93646 occurrences
+a: 79335 occurrences
+o: 76251 occurrences
+i: 75024 occurrences
+n: 69893 occurrences
+r: 62344 occurrences
+s: 62225 occurrences
+h: 59572 occurrences
+d: 43073 occurrences
+
+Top 10 Words by Frequency:
+the: 13790
+of: 8656
+to: 8180
+and: 5423
+i: 5313
+in: 5129
+a: 4645
+my: 3941
+was: 3757
+had: 3433

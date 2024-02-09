@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1072 chars
+1037 chars
+1009 chars
+907 chars
+895 chars
+778 chars
+759 chars
+730 chars
+721 chars
+685 chars
+
+Top 10 Shortest Sentences by Words:
+Du B.
+Of Mr.
+So Mr.
+But Mr.
+And Mr.
+Then Dr.
+Booker T.
+Oliver O.
+Clear out!
+Section 1.
+
+Top 10 Longest Words:
+unconventionality
+responsibilities
+unconstitutional
+disfranchisement
+uncompromisingly
+discriminatingly
+indiscriminately
+misapprehensions
+chickasawhatchee
+irresponsibility
+
+Top 10 Most Common Letters:
+e: 41714 occurrences
+t: 31209 occurrences
+a: 26322 occurrences
+o: 25120 occurrences
+n: 24366 occurrences
+i: 22357 occurrences
+s: 21312 occurrences
+r: 20017 occurrences
+h: 19809 occurrences
+d: 14698 occurrences
+
+Top 10 Words by Frequency:
+the: 5835
+and: 3750
+of: 3296
+to: 1645
+a: 1533
+in: 1352
+is: 703
+that: 676
+with: 544
+it: 518

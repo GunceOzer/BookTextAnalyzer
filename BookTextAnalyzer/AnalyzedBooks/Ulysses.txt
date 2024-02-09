@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+64526 chars
+55906 chars
+3799 chars
+3342 chars
+1906 chars
+1646 chars
+1409 chars
+1341 chars
+1332 chars
+1315 chars
+
+Top 10 Shortest Sentences by Words:
+O my!
+So J.
+Mr M.
+Mr S.
+N. g.
+Mr V.
+Mr F.
+Mr W.
+Yes I.
+I see.
+
+Top 10 Longest Words:
+nationalgymnasiummuseumsanatoriumandsuspensoriumsordinaryprivatdocentge
+handsomemarriedwomanrubbedagainstwidebehindinclonskea
+mangongwheeltracktrolleyglarejuggernaut
+contransmagnificandjewbangtantiality
+rutlandbaconsouthamptonshakespeare
+neralhistoryspecialprofessordoctor
+weeshwashtkissinapooisthnapoohuck
+wavyavyeavyheavyeavyevyevyhair
+frseeeeeeeeeeeeeeeeeeeefrong
+honorificabilitudinitatibus
+
+Top 10 Most Common Letters:
+e: 143251 occurrences
+t: 101682 occurrences
+a: 94099 occurrences
+o: 92711 occurrences
+i: 82460 occurrences
+n: 81145 occurrences
+s: 77651 occurrences
+h: 73074 occurrences
+r: 71025 occurrences
+l: 55536 occurrences
+
+Top 10 Words by Frequency:
+the: 15092
+of: 8263
+and: 7273
+a: 6565
+to: 5036
+in: 4991
+he: 4221
+his: 3328
+i: 2989
+s: 2831

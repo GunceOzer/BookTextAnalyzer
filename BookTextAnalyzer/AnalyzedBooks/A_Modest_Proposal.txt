@@ -1,0 +1,65 @@
+Top 10 Longest Sentences by Characters:
+1059 chars
+858 chars
+685 chars
+664 chars
+655 chars
+620 chars
+602 chars
+585 chars
+544 chars
+511 chars
+
+Top 10 Shortest Sentences by Words:
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+See
+paragraph 1.C below.
+See paragraph 1.E below.
+
+1.C.
+To
+donate, please visit: www.gutenberg.org/donate.
+Many other advantages might be enumerated.
+U.S. laws alone swamp our small staff.
+Unless you have removed all references to Project Gutenberg:
+
+1.E.1.
+
+Top 10 Longest Words:
+unenforceability
+representations
+merchantability
+redistribution
+redistributing
+nonproprietary
+electronically
+identification
+consideration
+entertainment
+
+Top 10 Most Common Letters:
+e: 3765 occurrences
+t: 2903 occurrences
+o: 2624 occurrences
+a: 2201 occurrences
+r: 2196 occurrences
+n: 2189 occurrences
+i: 2119 occurrences
+s: 1645 occurrences
+h: 1379 occurrences
+d: 1121 occurrences
+
+Top 10 Words by Frequency:
+the: 357
+of: 259
+to: 189
+and: 181
+a: 152
+in: 130
+or: 111
+gutenberg: 97
+project: 89
+you: 75

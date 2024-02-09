@@ -1,0 +1,60 @@
+Top 10 Longest Sentences by Characters:
+823 chars
+808 chars
+744 chars
+735 chars
+732 chars
+712 chars
+685 chars
+667 chars
+655 chars
+626 chars
+
+Top 10 Shortest Sentences by Words:
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Be patient!
+Gregor
+is ill.
+Just a moment.
+Now!”, said Mr.
+Aren’t you well?
+They became quieter.
+
+Top 10 Longest Words:
+unselfconsciously
+charlottenstrasse
+incomprehensible
+unenforceability
+representations
+merchantability
+recommendation
+uncontrollable
+considerations
+unsatisfactory
+
+Top 10 Most Common Letters:
+e: 13788 occurrences
+t: 10559 occurrences
+o: 8869 occurrences
+a: 8072 occurrences
+h: 7655 occurrences
+i: 7122 occurrences
+n: 6962 occurrences
+r: 6674 occurrences
+s: 6457 occurrences
+d: 4723 occurrences
+
+Top 10 Words by Frequency:
+the: 1348
+to: 835
+and: 710
+he: 593
+of: 557
+his: 550
+in: 411
+was: 411
+it: 385
+that: 360

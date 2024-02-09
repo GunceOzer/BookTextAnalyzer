@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+685 chars
+620 chars
+544 chars
+511 chars
+479 chars
+467 chars
+420 chars
+417 chars
+403 chars
+400 chars
+
+Top 10 Shortest Sentences by Words:
+Do I?
+I had.
+And I?
+ACT II.
+Hm, hm!
+Did he?
+It was.
+She is.
+A lie—?
+It has.
+
+Top 10 Longest Words:
+unenforceability
+unintentionally
+extraordinarily
+representations
+merchantability
+professionally
+contemptuously
+entertainments
+unrecognisable
+responsibility
+
+Top 10 Most Common Letters:
+e: 13663 occurrences
+t: 11089 occurrences
+o: 10996 occurrences
+a: 9672 occurrences
+n: 8739 occurrences
+i: 8135 occurrences
+r: 7737 occurrences
+s: 7190 occurrences
+h: 6806 occurrences
+l: 5375 occurrences
+
+Top 10 Words by Frequency:
+you: 1062
+the: 995
+i: 955
+to: 774
+nora: 709
+and: 676
+it: 602
+a: 564
+of: 531
+that: 495

@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2893 chars
+1312 chars
+1139 chars
+1083 chars
+887 chars
+825 chars
+779 chars
+687 chars
+685 chars
+659 chars
+
+Top 10 Shortest Sentences by Words:
+JOHN A.
+O, yea!
+Try it?
+Yet Mr.
+And why?
+Ewery, Mr.
+William C.
+Section 1.
+Section 2.
+Section 3.
+
+Top 10 Longest Words:
+autobiographical
+misunderstanding
+responsibilities
+unenforceability
+unintentionally
+inconsistencies
+thoughtlessness
+notwithstanding
+misapprehension
+representations
+
+Top 10 Most Common Letters:
+e: 24608 occurrences
+t: 17330 occurrences
+o: 14865 occurrences
+a: 14849 occurrences
+i: 13039 occurrences
+n: 13002 occurrences
+s: 11874 occurrences
+h: 11271 occurrences
+r: 11260 occurrences
+d: 8308 occurrences
+
+Top 10 Words by Frequency:
+the: 2445
+of: 1674
+to: 1576
+and: 1441
+i: 1040
+a: 916
+in: 798
+was: 743
+he: 530
+my: 457

@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+5310 chars
+3444 chars
+2982 chars
+2811 chars
+1962 chars
+1849 chars
+1746 chars
+1616 chars
+1379 chars
+1207 chars
+
+Top 10 Shortest Sentences by Words:
+By J.
+By W.
+By A.
+By R.
+By H.
+GEORGE G.
+GEORGE C.
+AND LAUD.
+CARR, M.A.
+HUNT, M.A.
+
+Top 10 Longest Words:
+transubstantiation
+latitudinarianism
+unconstitutional
+unenforceability
+excommunication
+representatives
+superintendence
+notwithstanding
+accomplishments
+superintendents
+
+Top 10 Most Common Letters:
+e: 44577 occurrences
+t: 31520 occurrences
+o: 27460 occurrences
+i: 26116 occurrences
+a: 25187 occurrences
+n: 24944 occurrences
+r: 23001 occurrences
+s: 22697 occurrences
+h: 17308 occurrences
+d: 14282 occurrences
+
+Top 10 Words by Frequency:
+the: 5905
+of: 4232
+and: 2270
+in: 1786
+to: 1593
+a: 1202
+was: 959
+by: 863
+university: 782
+for: 558

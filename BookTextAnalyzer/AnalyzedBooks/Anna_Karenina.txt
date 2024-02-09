@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1727 chars
+1643 chars
+1304 chars
+1303 chars
+1237 chars
+1139 chars
+1089 chars
+1070 chars
+1063 chars
+1046 chars
+
+Top 10 Shortest Sentences by Words:
+I ...
+A boy.
+A gem!
+I must!
+No, no!
+I can’t.
+Oh, yes!
+At once?
+Why our?
+But how?
+
+Top 10 Longest Words:
+straightforwardness
+contradistinction
+misunderstandings
+misinterpretation
+conscientiousness
+indestructibility
+misunderstanding
+incomprehensible
+misappropriation
+incomprehensibly
+
+Top 10 Most Common Letters:
+e: 187051 occurrences
+t: 141996 occurrences
+a: 125108 occurrences
+o: 115203 occurrences
+n: 111324 occurrences
+i: 110211 occurrences
+h: 106971 occurrences
+s: 98626 occurrences
+r: 80798 occurrences
+d: 68986 occurrences
+
+Top 10 Words by Frequency:
+the: 17743
+and: 12972
+to: 10236
+of: 8740
+he: 7827
+a: 6220
+in: 6080
+that: 5560
+was: 5310
+his: 5238

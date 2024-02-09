@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+7470 chars
+2282 chars
+2234 chars
+2076 chars
+1935 chars
+1899 chars
+1860 chars
+1804 chars
+1766 chars
+1708 chars
+
+Top 10 Shortest Sentences by Words:
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Gréard’s book.
+CICERO: _Tusc.
+MARLOWE’S _Dr.
+JOHN OAKESMITH.
+ARISTOTLE: _Eth.
+Taylor’s translation).
+
+Top 10 Longest Words:
+unapproachableness
+popularphilosophie
+menschengeschichte
+unphilosophically
+misrepresentation
+companionableness
+halicarnassensis
+hendecasyllables
+indiscriminately
+misunderstanding
+
+Top 10 Most Common Letters:
+e: 42151 occurrences
+t: 33540 occurrences
+i: 29240 occurrences
+o: 26815 occurrences
+a: 26351 occurrences
+s: 24779 occurrences
+n: 24455 occurrences
+r: 20484 occurrences
+h: 19476 occurrences
+l: 13324 occurrences
+
+Top 10 Words by Frequency:
+the: 5413
+of: 3978
+and: 2216
+to: 1853
+in: 1654
+a: 1289
+is: 974
+that: 933
+as: 719
+which: 621

@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1195 chars
+1093 chars
+1077 chars
+1004 chars
+935 chars
+897 chars
+893 chars
+879 chars
+869 chars
+849 chars
+
+Top 10 Shortest Sentences by Words:
+In Mrs.
+As Mrs.
+Why Mr.
+On Mrs.
+To Mrs.
+But Mrs.
+But why?
+And Mrs.
+He came.
+Had Mrs.
+
+Top 10 Longest Words:
+disinterestedness
+companionableness
+disqualifications
+incomprehensible
+unenforceability
+conscientiously
+disappointments
+representations
+misapprehension
+inconsiderately
+
+Top 10 Most Common Letters:
+e: 68482 occurrences
+t: 46535 occurrences
+o: 43392 occurrences
+a: 41488 occurrences
+n: 39479 occurrences
+i: 37746 occurrences
+r: 34468 occurrences
+s: 33537 occurrences
+h: 32849 occurrences
+d: 22843 occurrences
+
+Top 10 Words by Frequency:
+the: 4294
+to: 4198
+of: 3694
+and: 3559
+her: 2514
+a: 2147
+in: 2037
+i: 1992
+was: 1854
+it: 1772

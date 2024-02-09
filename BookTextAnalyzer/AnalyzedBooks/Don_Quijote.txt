@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+14300 chars
+3209 chars
+2929 chars
+2782 chars
+2729 chars
+2489 chars
+2477 chars
+2297 chars
+2284 chars
+2206 chars
+
+Top 10 Shortest Sentences by Words:
+Los celos.
+La muerte.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Capítulo V.
+Capítulo X.
+Capítulo L.
+Capítulo II.
+
+Top 10 Longest Words:
+bienintencionadamente
+estraordinariamente
+extraordinariamente
+desembarazadamente
+desalumbradamente
+desagradecimiento
+maravillosamente
+desenfadadamente
+quebrantamientos
+alternativamente
+
+Top 10 Most Common Letters:
+e: 225247 occurrences
+a: 195622 occurrences
+o: 155773 occurrences
+s: 127286 occurrences
+n: 110246 occurrences
+r: 102710 occurrences
+l: 90166 occurrences
+d: 88473 occurrences
+u: 79293 occurrences
+i: 79190 occurrences
+
+Top 10 Words by Frequency:
+que: 20769
+de: 18411
+y: 18272
+la: 10492
+a: 9934
+en: 8285
+el: 8265
+no: 6356
+los: 4769
+se: 4752

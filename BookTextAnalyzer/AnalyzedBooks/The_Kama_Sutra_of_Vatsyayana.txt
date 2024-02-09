@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+4884 chars
+1879 chars
+1127 chars
+1056 chars
+1040 chars
+1005 chars
+958 chars
+870 chars
+849 chars
+834 chars
+
+Top 10 Shortest Sentences by Words:
+AND B.
+PART I.
+PART V.
+PART II.
+PART IV.
+PART VI.
+The top.
+PART III.
+PART VII.
+The head.
+
+Top 10 Longest Words:
+indiscriminately
+incomprehensible
+acquaintanceship
+unenforceability
+characteristics
+philanthropists
+bharyadhikarika
+representations
+udakakashvedika
+reconciliations
+
+Top 10 Most Common Letters:
+e: 34023 occurrences
+t: 23397 occurrences
+a: 22053 occurrences
+o: 22022 occurrences
+n: 19956 occurrences
+s: 18796 occurrences
+i: 18335 occurrences
+h: 17987 occurrences
+r: 15941 occurrences
+d: 10267 occurrences
+
+Top 10 Words by Frequency:
+the: 4681
+of: 3085
+and: 2293
+to: 1642
+a: 1534
+her: 1080
+in: 1040
+is: 1022
+should: 813
+with: 764

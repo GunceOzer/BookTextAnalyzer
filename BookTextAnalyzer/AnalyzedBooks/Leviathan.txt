@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2330 chars
+1662 chars
+1508 chars
+1448 chars
+1287 chars
+1252 chars
+1247 chars
+1245 chars
+1241 chars
+1181 chars
+
+Top 10 Shortest Sentences by Words:
+If S.
+Nay S.
+PART I.
+And St.
+But St.
+For St.
+PART II.
+Greg. 2.
+PART IV.
+PART III.
+
+Top 10 Longest Words:
+incomprehensibility
+transsubstantiation
+transubstantiation
+autoispresbuterous
+misinterpretation
+uncharitablenesse
+excommunicationis
+transubstantiated
+praeterpoliticall
+incomprehensible
+
+Top 10 Most Common Letters:
+e: 126320 occurrences
+t: 97624 occurrences
+o: 78603 occurrences
+a: 72194 occurrences
+n: 68997 occurrences
+i: 66901 occurrences
+h: 63989 occurrences
+s: 61351 occurrences
+r: 57603 occurrences
+l: 32799 occurrences
+
+Top 10 Words by Frequency:
+the: 15158
+of: 10991
+and: 7402
+to: 7357
+is: 4886
+that: 4826
+in: 4215
+a: 3203
+by: 2660
+for: 2549

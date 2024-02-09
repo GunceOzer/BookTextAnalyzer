@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1801 chars
+976 chars
+947 chars
+874 chars
+874 chars
+848 chars
+847 chars
+842 chars
+814 chars
+809 chars
+
+Top 10 Shortest Sentences by Words:
+Am I?
+The P.
+Ah me!
+Old Mr.
+Now Mr.
+I know!
+Oh, me!
+Ah, no!
+Try it.
+Why Mr.
+
+Top 10 Longest Words:
+philoprogenitiveness
+characteristically
+conventionalities
+misunderstandings
+enthusiastically
+uncharitableness
+unenforceability
+accomplishments
+acknowledgement
+dissatisfaction
+
+Top 10 Most Common Letters:
+e: 97825 occurrences
+t: 68323 occurrences
+a: 63917 occurrences
+o: 60884 occurrences
+n: 52492 occurrences
+i: 51787 occurrences
+h: 48952 occurrences
+s: 47913 occurrences
+r: 46405 occurrences
+d: 38021 occurrences
+
+Top 10 Words by Frequency:
+and: 8153
+the: 7703
+to: 5154
+a: 4531
+i: 4003
+of: 3526
+her: 3246
+it: 2774
+in: 2506
+you: 2452

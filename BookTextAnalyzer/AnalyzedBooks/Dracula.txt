@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+921 chars
+875 chars
+840 chars
+785 chars
+732 chars
+730 chars
+720 chars
+685 chars
+680 chars
+671 chars
+
+Top 10 Shortest Sentences by Words:
+If Mr.
+D., D.
+D., M.
+Ha! ha!
+Ph., D.
+Why so?
+Oh, Dr.
+Ho, ho!
+I knew.
+When Dr.
+
+Top 10 Longest Words:
+straightforwardly
+argumentativeness
+transcendentalism
+acquaintanceship
+responsibilities
+enthusiastically
+unenforceability
+interrogatively
+philosophically
+materialisation
+
+Top 10 Most Common Letters:
+e: 81733 occurrences
+t: 60088 occurrences
+a: 53773 occurrences
+o: 52035 occurrences
+n: 44936 occurrences
+h: 44085 occurrences
+i: 44067 occurrences
+s: 40597 occurrences
+r: 36504 occurrences
+d: 29241 occurrences
+
+Top 10 Words by Frequency:
+the: 8100
+and: 5973
+i: 4843
+to: 4746
+of: 3754
+a: 3009
+he: 2581
+in: 2567
+that: 2502
+it: 2187

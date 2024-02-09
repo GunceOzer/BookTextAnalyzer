@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2274 chars
+2025 chars
+1984 chars
+1729 chars
+1640 chars
+1491 chars
+1102 chars
+1084 chars
+1065 chars
+1062 chars
+
+Top 10 Shortest Sentences by Words:
+The St.
+SARAH A.
+When Mr.
+MAJOR A.
+The Hon.
+Liz [Mrs.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+
+Top 10 Longest Words:
+disinterestedness
+responsibilities
+enthusiastically
+unenforceability
+congratulations
+accomplishments
+characteristics
+individualities
+sympathetically
+recommendations
+
+Top 10 Most Common Letters:
+e: 47318 occurrences
+t: 33387 occurrences
+a: 28286 occurrences
+o: 27570 occurrences
+i: 26821 occurrences
+n: 26815 occurrences
+s: 25048 occurrences
+r: 24235 occurrences
+h: 22579 occurrences
+d: 15575 occurrences
+
+Top 10 Words by Frequency:
+the: 6170
+of: 3416
+and: 2755
+to: 2286
+in: 1852
+a: 1679
+was: 1059
+her: 1046
+for: 818
+nightingale: 773

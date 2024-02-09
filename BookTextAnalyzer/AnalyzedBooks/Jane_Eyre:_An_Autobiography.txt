@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1747 chars
+1356 chars
+1350 chars
+1293 chars
+1215 chars
+1194 chars
+1107 chars
+1062 chars
+1024 chars
+1019 chars
+
+Top 10 Shortest Sentences by Words:
+To me!
+I did.
+By Mr.
+Of Mr.
+I had.
+Oh, no!
+Old Mr.
+By God!
+I went.
+Now, Mr.
+
+Top 10 Longest Words:
+characteristically
+conscientiousness
+misunderstandings
+conventionalities
+disadvantageously
+inconsiderateness
+personifications
+disproportionate
+indiscriminately
+superciliousness
+
+Top 10 Most Common Letters:
+e: 102361 occurrences
+t: 68624 occurrences
+a: 63873 occurrences
+o: 61946 occurrences
+i: 57162 occurrences
+n: 55321 occurrences
+s: 50872 occurrences
+r: 48604 occurrences
+h: 46435 occurrences
+d: 37986 occurrences
+
+Top 10 Words by Frequency:
+the: 8043
+i: 7255
+and: 6698
+to: 5318
+a: 4535
+of: 4489
+you: 3053
+in: 2828
+was: 2526
+it: 2430

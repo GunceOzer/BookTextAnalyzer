@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+778 chars
+762 chars
+739 chars
+727 chars
+721 chars
+693 chars
+685 chars
+662 chars
+650 chars
+640 chars
+
+Top 10 Shortest Sentences by Words:
+Oh, Dr.
+Now, Mr.
+No lies!
+Come on!
+A child!
+A beard!
+Thank you.
+Chapter 7.
+What then?
+Chapter 8.
+
+Top 10 Longest Words:
+supernaturalists
+unenforceability
+dolichocephalic
+anthropological
+characteristics
+extraordinarily
+personification
+representations
+merchantability
+reconstruction
+
+Top 10 Most Common Letters:
+e: 31933 occurrences
+t: 24188 occurrences
+o: 20734 occurrences
+a: 20713 occurrences
+i: 18177 occurrences
+n: 17446 occurrences
+h: 17311 occurrences
+s: 16106 occurrences
+r: 15613 occurrences
+d: 10991 occurrences
+
+Top 10 Words by Frequency:
+the: 3542
+of: 1728
+and: 1695
+i: 1501
+to: 1491
+a: 1368
+that: 1160
+it: 1026
+in: 972
+he: 922

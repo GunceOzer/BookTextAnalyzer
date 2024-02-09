@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+9870 chars
+6837 chars
+6584 chars
+4817 chars
+4051 chars
+3991 chars
+3489 chars
+3446 chars
+3166 chars
+2788 chars
+
+Top 10 Shortest Sentences by Words:
+O Me!
+BOOK V.
+O land!
+O past!
+O Life!
+O star!
+O death!
+BOOK IV.
+O Hymen!
+O bride!
+
+Top 10 Longest Words:
+constructiveness
+indiscriminately
+incomprehensible
+inextinguishable
+circumnavigation
+unenforceability
+compassionating
+inseparableness
+excrementitious
+untransmissible
+
+Top 10 Most Common Letters:
+e: 68472 occurrences
+t: 49368 occurrences
+o: 43940 occurrences
+a: 43144 occurrences
+n: 39666 occurrences
+s: 39364 occurrences
+i: 36831 occurrences
+r: 34546 occurrences
+h: 32918 occurrences
+l: 25102 occurrences
+
+Top 10 Words by Frequency:
+the: 10303
+and: 5402
+of: 4391
+i: 2934
+to: 2326
+in: 1935
+you: 1612
+d: 1580
+a: 1351
+with: 1297

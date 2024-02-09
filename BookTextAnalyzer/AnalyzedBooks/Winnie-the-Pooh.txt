@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+1455 chars
+1149 chars
+1050 chars
+1019 chars
+1011 chars
+1007 chars
+995 chars
+959 chars
+959 chars
+953 chars
+
+Top 10 Shortest Sentences by Words:
+Aha!_ ...
+Numbed it.
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Well, Pooh?
+There's Owl.
+Silly stuff.
+Nobody cares.
+
+Top 10 Longest Words:
+unenforceability
+representations
+merchantability
+redistribution
+redistributing
+nonproprietary
+electronically
+identification
+introductions
+grandfather's
+
+Top 10 Most Common Letters:
+e: 11921 occurrences
+t: 9960 occurrences
+o: 9610 occurrences
+a: 8565 occurrences
+i: 8035 occurrences
+n: 7178 occurrences
+h: 7076 occurrences
+s: 6165 occurrences
+r: 5552 occurrences
+d: 4952 occurrences
+
+Top 10 Words by Frequency:
+and: 1066
+the: 955
+to: 652
+he: 642
+a: 629
+said: 558
+it: 551
+of: 524
+pooh: 428
+you: 420

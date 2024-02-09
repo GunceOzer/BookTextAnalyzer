@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+8744 chars
+3272 chars
+2148 chars
+1848 chars
+1686 chars
+1685 chars
+1678 chars
+1638 chars
+1631 chars
+1629 chars
+
+Top 10 Shortest Sentences by Words:
+If St.
+Ex, L.
+L., L.
+B., A.
+But A.
+AND A.
+No. 84.
+What St.
+Thus St.
+No. 307.
+
+Top 10 Longest Words:
+contradistinction
+presbyterianismum
+septentrionalium
+cleandaghallagan
+superstitionibus
+cillcholumchille
+indiscriminately
+comprovincialium
+ecclesiastically
+incorruptibility
+
+Top 10 Most Common Letters:
+e: 106237 occurrences
+t: 82274 occurrences
+a: 68885 occurrences
+o: 68200 occurrences
+i: 65014 occurrences
+n: 62869 occurrences
+h: 57014 occurrences
+s: 54704 occurrences
+r: 52936 occurrences
+d: 36576 occurrences
+
+Top 10 Words by Frequency:
+the: 16518
+of: 11144
+and: 6297
+in: 5140
+to: 4875
+a: 3114
+that: 2240
+was: 2067
+he: 1950
+his: 1880

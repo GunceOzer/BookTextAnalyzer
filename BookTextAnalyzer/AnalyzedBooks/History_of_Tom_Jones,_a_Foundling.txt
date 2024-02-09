@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2528 chars
+2495 chars
+2275 chars
+1877 chars
+1844 chars
+1844 chars
+1754 chars
+1735 chars
+1733 chars
+1629 chars
+
+Top 10 Shortest Sentences by Words:
+BOOK I.
+BOOK V.
+BOOK X.
+BOOK II.
+BOOK IV.
+BOOK VI.
+Of love.
+BOOK IX.
+BOOK XI.
+Oh Lord!
+
+Top 10 Longest Words:
+disinterestedness
+misrepresentation
+unreasonableness
+disproportionate
+misconstructions
+misunderstanding
+indiscriminately
+impracticability
+incomprehensible
+characteristical
+
+Top 10 Most Common Letters:
+e: 195330 occurrences
+t: 136383 occurrences
+o: 123448 occurrences
+a: 118635 occurrences
+i: 107299 occurrences
+n: 106114 occurrences
+h: 105307 occurrences
+s: 97323 occurrences
+r: 96773 occurrences
+d: 63103 occurrences
+
+Top 10 Words by Frequency:
+the: 17118
+to: 11618
+of: 10786
+and: 8814
+a: 7035
+i: 6399
+in: 5845
+he: 5044
+that: 4073
+was: 4004

@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+12345 chars
+2561 chars
+2111 chars
+2087 chars
+1382 chars
+992 chars
+948 chars
+916 chars
+842 chars
+823 chars
+
+Top 10 Shortest Sentences by Words:
+And O!
+Shall us?
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+Then let’s.
+AUTHOR’S NOTE.
+Devil the star!
+Do you reverse?
+
+Top 10 Longest Words:
+wissenschaftsfeindlichkeit
+insubstantialises
+acknowledgements
+unimpressionable
+unenforceability
+intelligibility
+expressionismus
+representations
+merchantability
+impressiveness
+
+Top 10 Most Common Letters:
+e: 11944 occurrences
+t: 8994 occurrences
+a: 8104 occurrences
+i: 7489 occurrences
+n: 7207 occurrences
+o: 6567 occurrences
+s: 6551 occurrences
+r: 5873 occurrences
+h: 5227 occurrences
+l: 4131 occurrences
+
+Top 10 Words by Frequency:
+the: 1188
+and: 759
+a: 746
+in: 541
+to: 487
+o: 458
+s: 448
+i: 330
+that: 310
+or: 268

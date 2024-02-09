@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+2577 chars
+1141 chars
+928 chars
+825 chars
+790 chars
+776 chars
+775 chars
+747 chars
+743 chars
+743 chars
+
+Top 10 Shortest Sentences by Words:
+Oh, no!
+Or, no.
+My God!
+You, Mr.
+Yes, Mr.
+Why not?
+My love!
+His sin?
+Old Mrs.
+You have.
+
+Top 10 Longest Words:
+responsibilities
+unenforceability
+extraordinarily
+picturesqueness
+instantaneously
+sentimentalists
+representations
+nottinghamshire
+merchantability
+intellectually
+
+Top 10 Most Common Letters:
+e: 42287 occurrences
+t: 30710 occurrences
+a: 28483 occurrences
+o: 27477 occurrences
+i: 24586 occurrences
+n: 22469 occurrences
+h: 22468 occurrences
+s: 21237 occurrences
+r: 20704 occurrences
+d: 15729 occurrences
+
+Top 10 Words by Frequency:
+the: 3956
+of: 2301
+and: 2277
+to: 2183
+a: 1729
+i: 1696
+he: 1544
+you: 1520
+that: 1376
+it: 1358

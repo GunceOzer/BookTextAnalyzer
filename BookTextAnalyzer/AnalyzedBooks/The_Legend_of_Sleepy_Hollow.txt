@@ -1,0 +1,63 @@
+Top 10 Longest Sentences by Characters:
+888 chars
+786 chars
+685 chars
+665 chars
+620 chars
+596 chars
+591 chars
+549 chars
+549 chars
+546 chars
+
+Top 10 Shortest Sentences by Words:
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+CASTLE OF INDOLENCE.
+See
+paragraph 1.C below.
+See paragraph 1.E below.
+
+1.C.
+To
+donate, please visit: www.gutenberg.org/donate.
+What was to be done?
+Heaven only knows, not I!
+
+Top 10 Longest Words:
+unenforceability
+accomplishments
+perpendicularly
+representations
+merchantability
+discrimination
+perambulations
+indistinctness
+redistribution
+redistributing
+
+Top 10 Most Common Letters:
+e: 8483 occurrences
+t: 6353 occurrences
+o: 5701 occurrences
+a: 5456 occurrences
+n: 4840 occurrences
+i: 4744 occurrences
+r: 4506 occurrences
+s: 4381 occurrences
+h: 4378 occurrences
+d: 3075 occurrences
+
+Top 10 Words by Frequency:
+the: 1112
+of: 727
+and: 580
+a: 420
+to: 330
+in: 312
+his: 257
+was: 205
+he: 194
+with: 192

@@ -1,0 +1,59 @@
+Top 10 Longest Sentences by Characters:
+685 chars
+620 chars
+545 chars
+544 chars
+511 chars
+511 chars
+479 chars
+467 chars
+429 chars
+420 chars
+
+Top 10 Shortest Sentences by Words:
+Dear John!
+Section 1.
+Section 2.
+Section 3.
+Section 5.
+So I try.
+Of course not.
+And Jennie too.
+A yellow smell.
+It was moonlight.
+
+Top 10 Longest Words:
+unenforceability
+everlastingness
+conscientiously
+representations
+merchantability
+contradictions
+impressionable
+redistribution
+redistributing
+nonproprietary
+
+Top 10 Most Common Letters:
+e: 4675 occurrences
+t: 3829 occurrences
+o: 3288 occurrences
+a: 2995 occurrences
+i: 2909 occurrences
+n: 2805 occurrences
+r: 2412 occurrences
+s: 2260 occurrences
+h: 1927 occurrences
+d: 1612 occurrences
+
+Top 10 Words by Frequency:
+the: 433
+and: 354
+i: 319
+of: 230
+to: 228
+a: 201
+it: 188
+is: 155
+in: 153
+that: 125
